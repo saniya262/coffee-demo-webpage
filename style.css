@@ -1,5 +1,8 @@
 *{
     font-family: "Black Ops One", system-ui;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     
 }
 
@@ -7,7 +10,7 @@
     background-color: #DFBB96;
     position: sticky;
     top: 0;
-    width: 105%;
+    width: 100%;
     
     
 }
@@ -49,12 +52,14 @@
 #types-first-section{
     font-family: serif;
      font-size: larger;
+     text-align: justify;
 }
 
 .types-contant{
 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
+    text-align: justify;
     
 }
 
@@ -71,6 +76,51 @@
     text-align: justify;
     
 
+}
+
+#gallery-img{
+
+    border-radius: 25px;
+}
+
+#name{
+
+    background-color: #F4ECE6;
+}
+
+#email{
+    
+     background-color: #F4ECE6;
+}
+
+#quary{
+
+    background-color: #F4ECE6;
+
+}
+
+#button{
+
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    font-weight:bolder;
+    color: #F4ECE6;
+    background-color: rgb(48, 31, 19);
+    margin-left: 400px;
+   margin-bottom: 20px;
+    
+   
+}
+
+#footer{
+
+    background-color: #DFBB96;
+    width: 100%;
+    position: sticky;
+    bottom: 1;
+    padding-bottom: 20PX;
+
+   
 }
 
 
