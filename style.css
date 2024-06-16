@@ -1,0 +1,60 @@
+*{
+    font-family: "Black Ops One", system-ui;
+    
+}
+
+#fixed-subtitle{
+    background-color: #DFBB96;
+    position: sticky;
+    top: 0;
+    
+    
+}
+
+.heading-brew-beans{
+
+    font-size: 120px;
+    color: rgb(48, 31, 19);
+    text-shadow: -5px 5px 5px  black;
+    
+}
+
+
+
+#contant-heading{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    
+}
+
+#contant-paragraph{
+
+    text-align: justify;
+    width: 60%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#sub-headings{
+
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 60px;
+    font-weight:bolder;
+    color: rgb(48, 31, 19);
+    text-shadow: 2px 3px 4px black;
+}
+
+#types-first-section{
+    font-family: serif;
+     font-size: larger;
+}
+
+.types-contant{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+
+
